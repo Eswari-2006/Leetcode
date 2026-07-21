@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Eswari-2006/Leetcode/tree/master/1748-sum-of-unique-elements) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Eswari-2006/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
