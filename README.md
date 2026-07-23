@@ -41,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Eswari-2006/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Eswari-2006/Leetcode/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Eswari-2006/Leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Eswari-2006/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
