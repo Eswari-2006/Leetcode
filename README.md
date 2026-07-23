@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Eswari-2006/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Eswari-2006/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Eswari-2006/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Eswari-2006/Leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Eswari-2006/Leetcode/tree/master/0595-big-countries) |
+## Math
+|  |
+| ------- |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Eswari-2006/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+## Greedy
+|  |
+| ------- |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Eswari-2006/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+## Sorting
+|  |
+| ------- |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Eswari-2006/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+## Game Theory
+|  |
+| ------- |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Eswari-2006/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 <!---LeetCode Topics End-->
