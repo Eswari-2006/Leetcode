@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Eswari-2006/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0065-valid-number](https://github.com/Eswari-2006/Leetcode/tree/master/0065-valid-number) |
 ## Dynamic Programming
 |  |
 | ------- |
