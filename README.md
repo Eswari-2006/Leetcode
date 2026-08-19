@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Eswari-2006/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Eswari-2006/Leetcode/tree/master/0009-palindrome-number) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Eswari-2006/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Greedy
 |  |
