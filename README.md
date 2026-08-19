@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Eswari-2006/Leetcode/tree/master/0012-integer-to-roman) |
 | [1748-sum-of-unique-elements](https://github.com/Eswari-2006/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Eswari-2006/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Eswari-2006/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Eswari-2006/Leetcode/tree/master/0012-integer-to-roman) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Eswari-2006/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Greedy
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Eswari-2006/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Eswari-2006/Leetcode/tree/master/0012-integer-to-roman) |
 | [0065-valid-number](https://github.com/Eswari-2006/Leetcode/tree/master/0065-valid-number) |
 ## Dynamic Programming
 |  |
